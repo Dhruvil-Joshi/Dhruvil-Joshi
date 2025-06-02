@@ -44,19 +44,12 @@
 - 🧠 5th Place – **ImmunoQuest Hackathon** (Deep learning for diagnostics)  
 
 ---
-
-## 📊 GitHub Stats
-
-![Dhruvil-Joshi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhruvil-Joshi&theme=dark&hide_border=false)
-![Dhruvil-Joshi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvil-Joshi&theme=dark&show_icons=true&hide_border=false&layout=compact)
----
-
 ## 🏅 Coding Stats
-
-![Dhruvil-Joshi's LeetCode](https://leetcard.jacoblin.cool/dhruviljoshi1910?ext=heatmap&theme=dark)
-
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=dhruviljoshi1910&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/dhruviljoshi1910)
-
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/dhruviljoshi1910?ext=heatmap&theme=dark" height="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=dhruviljoshi1910&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" height="200"/>
+</div>
 ---
 
 ## 🌐 Connect With Me
