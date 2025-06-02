@@ -46,9 +46,9 @@
 ---
 ## 🏅 Coding Stats
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/dhruviljoshi1910?ext=heatmap&theme=dark" height="200"/>
+  <img src="https://leetcard.jacoblin.cool/dhruviljoshi1910?ext=heatmap&theme=dark" height="400"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=dhruviljoshi1910&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" height="200"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=dhruviljoshi1910&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" height="400"/>
 </div>
 
 ---
