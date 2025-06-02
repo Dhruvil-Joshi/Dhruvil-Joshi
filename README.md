@@ -47,14 +47,11 @@
 
 ## 📊 GitHub Stats
 
-[![Dhruvil-Joshi's  GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruvil-Joshi&theme=dark&show_icons=true&hide_border=false&layout=compact)](https://github.com/Dhruvil-Joshi/github-readme-stats)
 ![Dhruvil-Joshi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhruvil-Joshi&theme=dark&hide_border=false)
 ![Dhruvil-Joshi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvil-Joshi&theme=dark&show_icons=true&hide_border=false&layout=compact)
 ---
 
 ## 🏅 Coding Stats
-
-<--![LeetCode Badge - August 2024](https://leetcode.com/static/images/badges/2024/gif/2024-08.gif)-->
 
 ![Dhruvil-Joshi's LeetCode](https://leetcard.jacoblin.cool/dhruviljoshi1910?ext=heatmap&theme=dark)
 
