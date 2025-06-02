@@ -17,20 +17,15 @@
 
 ## 🛠️ Tech Stack
 
-### 🔹 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🧠 AI/ML & Tools
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-00B3E6?style=for-the-badge&logo=data&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-1D3557?style=for-the-badge&logo=vector&logoColor=white)
-
-### 🌐 Web & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -59,7 +54,7 @@
 
 ## 🏅 Coding Stats
 
-![LeetCode Badge - August 2024](https://leetcode.com/static/images/badges/2024/gif/2024-08.gif)
+<--![LeetCode Badge - August 2024](https://leetcode.com/static/images/badges/2024/gif/2024-08.gif)-->
 
 ![Dhruvil-Joshi's LeetCode](https://leetcard.jacoblin.cool/dhruviljoshi1910?ext=heatmap&theme=dark)
 
