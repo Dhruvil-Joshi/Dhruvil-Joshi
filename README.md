@@ -50,6 +50,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=dhruviljoshi1910&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" height="200"/>
 </div>
+
 ---
 
 ## 🌐 Connect With Me
